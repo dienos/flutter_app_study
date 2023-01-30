@@ -1,6 +1,6 @@
-# untitled
+# flutter_app
 
-A new Flutter project.
+플러터 공부
 
 ## Getting Started
 
